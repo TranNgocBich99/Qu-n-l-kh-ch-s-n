@@ -1,4 +1,4 @@
-<h1>Quản lý khách sạnL</h1>
+<h1>Quản lý khách sạn</h1>
 <h1>1. Định hướng và Các kết quả then chốt cần đạt được </h1>
 <h2>1.1 Định hướng</h2>
 <ul>
